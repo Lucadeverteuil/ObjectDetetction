@@ -1,0 +1,7 @@
+path: /Users/lucadeverteuil/Documents/coding/ImageDetectionTest/TpDatatset2
+train: train/images
+val: train/images
+
+nc: 2
+names: ['ToiltPaper', 'hole']
+
