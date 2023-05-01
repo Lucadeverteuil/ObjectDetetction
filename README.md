@@ -6,6 +6,7 @@ The goal of this project is to be able to detect objects within a video stream. 
 ## Techstack: 
 Coding lanague 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> 
+
 <br> 
 Object Detection API: 
 YOLO
