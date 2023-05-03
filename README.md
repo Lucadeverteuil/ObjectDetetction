@@ -1,7 +1,7 @@
 # ObjectDetetction
 
 ## Project Description 
-The goal of this project is to be able to detect objects within a video stream. Currelntly i am using a premade package used to train end goal is to have my own trained model
+The objective of this project is to develop a system that can accurately detect objects in a video stream. Initially, a pre-made package has been utilized for training purposes, but the ultimate goal is to develop a custom-trained model that can better meet the specific requirements of the project.
 
 ## Techstack: 
 Coding lanague 
@@ -12,4 +12,5 @@ Object Detection API:
 YOLO
 
 ## Current Model: 
+Below is an image of the working object detection system:
 ![ObjectDetection](WorkingOD.png)
